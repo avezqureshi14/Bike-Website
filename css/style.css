@@ -12,6 +12,10 @@
     cursor:default;
 }
 
+a:-webkit-any-link{
+  color: black;
+}
+
 .container {
   max-width: 90%;
   margin: auto;
